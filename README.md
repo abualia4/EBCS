@@ -1,5 +1,5 @@
 Under construction
-### EBCS Web-based system (Pre-print papaer)
+### EBCS Web-based system (pre-print papaer)
 
 This repisitory contains the source code of the web-based system for filter Feature Selection approach(EBCS), see the following preprint paper.
 ```
