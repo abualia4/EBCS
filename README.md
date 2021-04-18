@@ -25,8 +25,11 @@ To run the web-based system, you just install any web server that supports PHP, 
 3. Create EBCS folder in a web root(WWW)
 4. Clone the repisitory into WWW/EBCS.
 
+```
+git clone https://github.com/abualia4/EBCS.git
 
-4. Run the web-based system using the following command.
+```
+5. Run the web-based system using the following command.
 
 ```
 localhost/EBCS
