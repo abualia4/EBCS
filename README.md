@@ -1,12 +1,14 @@
 Under construction
 ### Enhanced Binary Cuckoo Search with Frequent Values and Rough Set Theory for FeatureSelection (pre-print)
 
-This repisitory contains the source code of filter Feature Selection approach(EBCS), see the following preprint paper.
-
-<hr/>
+This repisitory contains the source code of the web-based system for filter Feature Selection approach(EBCS), see the following preprint paper.
+```
+blank
+```
+--
 
 ## Features
-the web-based system has the following features.
+The web-based system has the following features.
 
 1. Splitting the dataset into training and test sets randomly according to different percentages standerds.
 2. Dataset reduction.
@@ -26,9 +28,9 @@ To run the web-based system, you just install any web server that supports PHP, 
 
 4. Run the web-based system using the following command.
 
----
+```
 localhost/EBCS
-
-<hr/>
+```
+ 
 
   
