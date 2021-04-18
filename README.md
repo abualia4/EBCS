@@ -34,6 +34,7 @@ git clone https://github.com/abualia4/EBCS.git
 ```
 localhost/EBCS
 ```
+6. The web-ased systen is ready to use, just put the datasets in CSV file in src/datasets directory and use the interface of the system.
 <hr/>
 
 The following imge shows the screenshot of the main page of the web-based system
