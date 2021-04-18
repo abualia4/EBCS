@@ -5,4 +5,4 @@ Datasets directory is the place of the datasets that will be used to evaluate th
 
 The Following table shows the characterstices of the datasets that were used in the evaluation.
 
-<img src="datasets.jpg"/>
+<img src="datasets.png"/>
