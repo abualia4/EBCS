@@ -34,6 +34,10 @@ git clone https://github.com/abualia4/EBCS.git
 ```
 localhost/EBCS
 ```
- 
+<hr/>
+
+The following imge shows the screenshot of the main page of the web-based system
+
+<a href="datasets/main.png"/>
 
   
