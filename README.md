@@ -34,7 +34,7 @@ git clone https://github.com/abualia4/EBCS.git
 ```
 localhost/EBCS
 ```
-6. The web-based systen is ready to use, just put the datasets in CSV file in src/datasets directory and drive the system according to the [Features](#Features).
+6. The web-based system is ready to use, just put the datasets in CSV file in src/datasets directory and drive the system according to the [Features](#Features).
 <hr/>
 
 The following image shows the screenshot of the main page of the web-based system
