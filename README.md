@@ -38,6 +38,6 @@ localhost/EBCS
 
 The following imge shows the screenshot of the main page of the web-based system
 
-<a href="datasets/main.png"/>
+<a href="src/datasets/main.png"/>
 
   
